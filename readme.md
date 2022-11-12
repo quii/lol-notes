@@ -28,10 +28,12 @@ graph TD
     B --> No-tanks
     B --> More-than-one-hypercarry
     B --> No-cc
+    B --> Heavy-engage
 
     No-tanks --> Swain
     No-tanks --> Cho
-    
+ 
+    Heavy-engage-->Galio
     No-cc --> Galio
     More-than-one-hypercarry-->Galio
     
