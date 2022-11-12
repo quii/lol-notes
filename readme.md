@@ -27,9 +27,14 @@ graph TD
     B[Our comp]
     B --> No-tanks
     B --> More-than-one-hypercarry
+    B --> No-cc
 
     No-tanks --> Swain
     No-tanks --> Cho
+    
+    No-cc --> Galio
+    More-than-one-hypercarry-->Galio
+    
     More-than-one-hypercarry-->Zilean
     More-than-one-hypercarry-->Lissandra
 
