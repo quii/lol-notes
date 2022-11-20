@@ -13,6 +13,7 @@ graph TD
     E --> Low-sustained-dmg
 
     Tanky --> Viktor
+    Tanky --> Swain
     Squishy --> Syndra
     Squishy --> Akali
     Immobile --> Akali
