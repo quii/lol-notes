@@ -46,3 +46,9 @@ graph TD
     Swain --> DontAhri[Dont pick vs Ahri]
     Swain --> DontVeigar[Dont pick vs Veigar]
 ```
+
+## After getting prio, these are the list of items
+
+(todo) make a decision tree based off this vid https://www.youtube.com/watch?v=qD4Wv515IV0
+
+![image](https://user-images.githubusercontent.com/631756/203505009-25e893eb-b565-4493-8380-37425f68d3fe.png)
