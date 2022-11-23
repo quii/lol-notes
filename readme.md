@@ -52,3 +52,11 @@ graph TD
 (todo) make a decision tree based off this vid https://www.youtube.com/watch?v=qD4Wv515IV0
 
 ![image](https://user-images.githubusercontent.com/631756/203505009-25e893eb-b565-4493-8380-37425f68d3fe.png)
+
+## Things to think through start of game
+
+- Think of the side of lane to lean
+   - e.g If top is tank vs tank, not likely to be gank heavy, so ward to botside
+- Am i likely to be ganked?
+   - What jungler do they have?
+   - If not, think about how to use priority
