@@ -47,6 +47,26 @@ graph TD
     Swain --> DontVeigar[Dont pick vs Veigar]
 ```
 
+## What every comp needs
+
+- Engage
+- Disengage/peel
+- Mix of AP/AD
+- 1 or 2 frontliners
+
+Nuance to it though
+
+- For example if Fiora, we need something to match her on the side lanes
+- If there are tanks, you need consistent DPS, rather than burst
+- Think about power through game, e.g don't pick an all-scaling comp
+- If they don't have engage, we can go poke
+
+### My pool needs
+
+- A mixture of AD and AP
+- Early/late strength
+- Need a beefy counter to assasins, Galio/Sett
+
 ## After getting prio, these are the list of items
 
 (todo) make a decision tree based off this vid https://www.youtube.com/watch?v=qD4Wv515IV0
