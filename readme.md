@@ -73,6 +73,11 @@ Nuance to it though
 
 ![image](https://user-images.githubusercontent.com/631756/203505009-25e893eb-b565-4493-8380-37425f68d3fe.png)
 
+## Basing
+
+- Do I have gold to buy something? (1k is a good rule of thumb)
+- If poor waveclear (e.g Akali), probably not worth shoving, as it'll more likely set up a freeze. So just match the base
+
 ## Things to think through start of game
 
 - Think of the side of lane to lean
