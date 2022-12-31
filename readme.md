@@ -61,6 +61,23 @@ Nuance to it though
 - Think about power through game, e.g don't pick an all-scaling comp
 - If they don't have engage, we can go poke
 
+## My comfort picks
+
+- Viktor
+- Syndra
+- Swain
+- Akali
+- Lissandra
+
+## Champs i can play, but not pro at
+
+practice these!
+
+- Galio
+- Heimerdinger
+- Zoe
+
+
 ### My pool needs
 
 - A mixture of AD and AP
@@ -85,3 +102,5 @@ Nuance to it though
 - Am i likely to be ganked?
    - What jungler do they have?
    - If not, think about how to use priority
+   
+
