@@ -14,15 +14,18 @@ graph TD
 
     Tanky --> Viktor
     Tanky --> Swain
+    Tanky --> Heimerdinger
     Squishy --> Syndra
     Squishy --> Akali
     Immobile --> Akali
+    Immobile --> Heimerdinger
     Low-cc --> Akali
     Mobile --> Lissandra
     Mobile --> Zilean
     Divers --> Zilean
     Divers --> Lissandra
     Low-range --> Swain
+    Low-range --> Heimerdinger
     Low-sustained-dmg -->Swain
 
     B[Our comp]
