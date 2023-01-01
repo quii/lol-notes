@@ -19,6 +19,7 @@ graph TD
     Squishy --> Akali
     Immobile --> Akali
     Immobile --> Heimerdinger
+    Immobile --> Zoe
     Low-cc --> Akali
     Mobile --> Lissandra
     Mobile --> Zilean
@@ -26,6 +27,7 @@ graph TD
     Divers --> Lissandra
     Low-range --> Swain
     Low-range --> Heimerdinger
+    Low-range --> Zoe
     Low-sustained-dmg -->Swain
 
     B[Our comp]
