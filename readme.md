@@ -80,7 +80,7 @@ practice these!
 
 - Galio
 - Heimerdinger
-- Zoe
+- Zoe - great vs melee and immobile
 
 
 ### My pool needs
