@@ -80,7 +80,7 @@ practice these!
 
 - Galio
 - Heimerdinger
-- Zoe - great vs melee and immobile
+- Zoe - great vs melee and immobile. Remember to take out back waves first to open bubble opportunity. Punish cooldowns and all-in. Stand back in teamfights. 
 
 
 ### My pool needs
