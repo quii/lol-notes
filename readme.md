@@ -90,6 +90,7 @@ Nuance to it though
 ### Swain
 
 - Nice vs short range, offers frontline
+- Really good vs low damage comps
 
 ### Akali
 
