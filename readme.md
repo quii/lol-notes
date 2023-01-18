@@ -73,12 +73,41 @@ Nuance to it though
 - Swain
 - Akali
 - Lissandra
+- Galio
+
+### Viktor
+
+- Tear is legit now
+- Go First Strike if chilling out, go aery, scorch to dominate lane (vs melee or easy)
+- Not good at skirmishing early, if early fun anticipated, may not be best pick
+
+### Syndra
+
+- Generally good, can blow things up, can make game winning picks late
+- A bit vulnerable to ganks, look at their jungle pick
+- Quite decent vs mobile squishies due to point and click ult
+
+### Swain
+
+- Nice vs short range, offers frontline
+
+### Akali
+
+- Immobile squishies gonna die
+
+### Lissandra
+
+- Similar to galio but offers more AP and reliable CC
+
+### Galio
+
+- Need carry jungler ideally
+- Fantastic counterpick to assassins
 
 ## Champs i can play, but not pro at
 
 practice these!
 
-- Galio
 - Heimerdinger
 - Zoe - great vs melee and immobile. Remember to take out back waves first to open bubble opportunity. Punish cooldowns and all-in. Stand back in teamfights. 
 
