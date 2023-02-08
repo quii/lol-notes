@@ -8,10 +8,12 @@ graph TD
     E --> Immobile
     E --> Mobile
     E --> Divers
+    E --> Assassins
     E --> Low-range
     E --> Low-cc
     E --> Low-sustained-dmg
 
+    Assassins --> Galio
     Tanky --> Viktor
     Tanky --> Swain
     Tanky --> Heimerdinger
