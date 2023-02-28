@@ -111,7 +111,7 @@ Nuance to it though
 
 practice these!
 
-- Heimerdinger
+- Orianna - great when rest of team has wombo, nice against melee. Remember to keep ball close if against assassin
 - Zoe - great vs melee and immobile. Remember to take out back waves first to open bubble opportunity. Punish cooldowns and all-in. Stand back in teamfights. 
 
 
