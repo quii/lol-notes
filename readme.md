@@ -94,6 +94,14 @@ Nuance to it though
 - Nice vs short range, offers frontline
 - Really good vs low damage comps
 
+### Orianna
+
+- Controls lane well
+- Good combo with other big Rs
+- Remember to keep ball close against assasins
+- Remember to weave AAs
+- I still die too much
+
 ### Akali
 
 - Immobile squishies gonna die
