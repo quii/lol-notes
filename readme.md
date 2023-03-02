@@ -19,12 +19,14 @@ graph TD
     Tanky --> Heimerdinger
     Squishy --> Syndra
     Squishy --> Akali
+    Squishy --> Vex
     Immobile --> Akali
     Immobile --> Heimerdinger
     Immobile --> Zoe
     Low-cc --> Akali
     Mobile --> Lissandra
     Mobile --> Zilean
+    Mobile --> Vex
     Divers --> Zilean
     Divers --> Lissandra
     Low-range --> Swain
@@ -42,6 +44,7 @@ graph TD
     No-tanks --> Cho
  
     Heavy-engage-->Galio
+    Heavy-engage-->Vex
     No-cc --> Galio
     More-than-one-hypercarry-->Galio
     
@@ -101,6 +104,10 @@ Nuance to it though
 - Remember to keep ball close against assasins
 - Remember to weave AAs
 - I still die too much
+
+### Vex
+
+- Kassadin counter
 
 ### Akali
 
