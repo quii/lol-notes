@@ -12,16 +12,15 @@ graph TD
     E --> Low-range
     E --> Low-cc
     E --> Low-sustained-dmg
+    E --> All-AD
 
     Assassins --> Galio
     Tanky --> Viktor
     Tanky --> Swain
-    Tanky --> Heimerdinger
     Squishy --> Syndra
     Squishy --> Akali
     Squishy --> Vex
     Immobile --> Akali
-    Immobile --> Heimerdinger
     Immobile --> Zoe
     Low-cc --> Akali
     Mobile --> Lissandra
@@ -33,6 +32,8 @@ graph TD
     Low-range --> Heimerdinger
     Low-range --> Zoe
     Low-sustained-dmg -->Swain
+    All-AD --> Cho
+    All-AD --> Sion
 
     B[Our comp]
     B --> No-tanks
