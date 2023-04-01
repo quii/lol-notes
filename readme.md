@@ -81,19 +81,19 @@ Nuance to it though
 - Lissandra
 - Aurelion Sol
 
-## Aurelion Sol
+### Aurelion Sol
 
-### Rune pages
+#### Rune pages
 
 Need to swap them around. Might want to take adaptive force over attack speed if not contesting.
 
-#### Against free match, melee
+##### Against free match, melee
 
 - First strike
 - Magical footwear
 - Sorcery: Absolute focus, gathering storm
 
-### Against assasins
+#### Against assasins
 
 - Spellbook for defensive summoners
 - Futures market to get catalyst earlier
@@ -101,7 +101,7 @@ Need to swap them around. Might want to take adaptive force over attack speed if
 - Overgrowth
 - Take attack speed here
 
-### Comet vs outranges, or vs non sustain (syndra, ori, zoe) - cant proc first strike
+#### Comet vs outranges, or vs non sustain (syndra, ori, zoe) - cant proc first strike
 
 - Manaflow, transcendence, gathering storm
 - Second wind vs poke, overgrowth
