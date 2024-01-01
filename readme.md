@@ -101,11 +101,18 @@ Need combination of CC and damage
    - e.g If top is tank vs tank, not likely to be gank heavy, so ward to botside
 - Am i likely to be ganked?
    - What jungler do they have?
+   - What about support?
+   - Maybe go phase rush if ganks likely
    - If not, think about how to use priority
 - Play safe 3-4 mins
 - Don’t use CC/escape when pushed
 - Run away from jungle, not necessarily turret
 - Only pressure when you have numbers advantage
 - Bait baron to use gold advantages
+
+## First back thoughts
+
+- lost chapter is greedy, take if enemy jungle is behind, if we're ahead etc
+- otherwise, boots, dark seal
 
 
