@@ -72,88 +72,16 @@ Nuance to it though
 - Think about power through game, e.g don't pick an all-scaling comp
 - If they don't have engage, we can go poke
 
-## My comfort picks
+## Synergy with jungle
 
-- Viktor
-- Syndra
-- Swain
-- Akali
-- Lissandra
-- Aurelion Sol
+Need combination of CC and damage
 
-### Aurelion Sol
+## Specific counterpicks
 
-#### Rune pages
-
-Need to swap them around. Might want to take adaptive force over attack speed if not contesting.
-
-##### Against free match, melee
-
-- First strike
-- Magical footwear
-- Sorcery: Absolute focus, gathering storm
-
-#### Against assasins
-
-- Spellbook for defensive summoners
-- Futures market to get catalyst earlier
-- Go resolve second, bone plating vs all in, second wind vs poke
-- Overgrowth
-- Take attack speed here
-
-#### Comet vs outranges, or vs non sustain (syndra, ori, zoe) - cant proc first strike
-
-- Manaflow, transcendence, gathering storm
-- Second wind vs poke, overgrowth
-
-### Viktor
-
-- Tear is legit now
-- Go First Strike if chilling out, go aery, scorch to dominate lane (vs melee or easy)
-- Not good at skirmishing early, if early fun anticipated, may not be best pick
-
-### Syndra
-
-- Generally good, can blow things up, can make game winning picks late
-- A bit vulnerable to ganks, look at their jungle pick
-- Quite decent vs mobile squishies due to point and click ult
-
-### Swain
-
-- Nice vs short range, offers frontline
-- Really good vs low damage comps
-
-### Orianna
-
-- Controls lane well
-- Good combo with other big Rs
-- Remember to keep ball close against assasins
-- Remember to weave AAs
-- I still die too much
-
-### Vex
-
-- Kassadin counter
-
-### Akali
-
-- Immobile squishies gonna die
-
-### Lissandra
-
-- Similar to galio but offers more AP and reliable CC
-
-### Galio
-
-- Need carry jungler ideally
-- Fantastic counterpick to assassins
-
-## Champs i can play, but not pro at
-
-practice these!
-
-- Orianna - great when rest of team has wombo, nice against melee. Remember to keep ball close if against assassin
-- Zoe - great vs melee and immobile. Remember to take out back waves first to open bubble opportunity. Punish cooldowns and all-in. Stand back in teamfights. **i am dying too much early**
+- vs AD assasins = Malphite
+- vs AP assasins = Galio
+- vs melee heavy = Taliyah
+- Blind pick = Ori or Viktor
 
 
 ### My pool needs
@@ -161,12 +89,6 @@ practice these!
 - A mixture of AD and AP
 - Early/late strength
 - Need a beefy counter to assasins, Galio/Sett
-
-## After getting prio, these are the list of items
-
-(todo) make a decision tree based off this vid https://www.youtube.com/watch?v=qD4Wv515IV0
-
-![image](https://user-images.githubusercontent.com/631756/203505009-25e893eb-b565-4493-8380-37425f68d3fe.png)
 
 ## Basing
 
@@ -180,5 +102,10 @@ practice these!
 - Am i likely to be ganked?
    - What jungler do they have?
    - If not, think about how to use priority
-   
+- Play safe 3-4 mins
+- Don’t use CC/escape when pushed
+- Run away from jungle, not necessarily turret
+- Only pressure when you have numbers advantage
+- Bait baron to use gold advantages
+
 
