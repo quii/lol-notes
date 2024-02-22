@@ -109,6 +109,7 @@ Need combination of CC and damage
 - Run away from jungle, not necessarily turret
 - Only pressure when you have numbers advantage
 - Bait baron to use gold advantages
+- *2:40* is gank timing (ward no later than 2:25)
 
 ## First back thoughts
 
