@@ -110,6 +110,7 @@ Need combination of CC and damage
 - Only pressure when you have numbers advantage
 - Bait baron to use gold advantages
 - *2:40* is gank timing (ward no later than 2:25)
+- *Dont just mindlessly shove waves*. Trim them, and then crash when 2nd wave comes
 
 ## First back thoughts
 
