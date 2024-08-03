@@ -46,8 +46,14 @@ Post game
 
 Hopeful gameplan was Dan carry, i support. it more or less worked. They had a very short range comp
 
-### Game 3
+### Game 3 (lost)
 
 Champ select
 - Dan picked Voli into Karthus
 - Chris blind Ori, into Diana
+
+Post game
+
+Was a close one. Ended up with illaoi soaking up all our damage, we couldnt seem to get to their backline. There was a point where we were hitting their fountain. 
+
+Another point where both teams were posturing around baron, but they had no turrets. We shouldn't let them dicate. Run it down. Be aware of open objectives, not just baron
