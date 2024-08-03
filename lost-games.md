@@ -1,8 +1,8 @@
-# Lost game notes
+#  game notes
 
 ## 2/8/24
 
-### Game 1
+### Game 1 (lose)
 
 Champ select:
 - Enemy mid zed - Swain taken, so i kinda panic'd malphite
@@ -21,7 +21,7 @@ Lessons?
 
 ## 3/8/2024
 
-### Game 1
+### Game 1 (Win)
 
 Champ select
 
@@ -29,3 +29,7 @@ Champ select
 Viego, Hwei
 
 Hwei picked to counterpick aurora, but turned out wasn't mid
+
+bebe got tilted by quinn pick, but actually she carried us
+
+quii died slopily to zed a few times
