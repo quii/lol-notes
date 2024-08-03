@@ -33,3 +33,13 @@ Hwei picked to counterpick aurora, but turned out wasn't mid
 bebe got tilted by quinn pick, but actually she carried us
 
 quii died slopily to zed a few times
+
+### Game 2 
+
+Champ Select
+- Volibear for us
+- Picked zilean to boost it, and to css darius and udyr
+
+Irelia picked against me, initial thoughts, oh no
+
+Post game
