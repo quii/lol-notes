@@ -22,3 +22,10 @@ Lessons?
 ## 3/8/2024
 
 ### Game 1
+
+Champ select
+
+> Well fuckit they dont have tanks
+Viego, Hwei
+
+Hwei picked to counterpick aurora, but turned out wasn't mid
