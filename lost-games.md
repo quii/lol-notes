@@ -57,3 +57,13 @@ Post game
 Was a close one. Ended up with illaoi soaking up all our damage, we couldnt seem to get to their backline. There was a point where we were hitting their fountain. 
 
 Another point where both teams were posturing around baron, but they had no turrets. We shouldn't let them dicate. Run it down. Be aware of open objectives, not just baron
+
+### Game 4 (lost)
+
+Champ select
+- Chris blind Ori, into Hwei
+- Dan sej into fiddle
+
+Post game
+- Felt we took some bad fights for objectives where we had no way of winning. Even if it's bad to give more grubbies, its worse to just take a fight against a fed top laner that we couldn't win
+- Perhaps we could've peeled better for Samira, who was our win condition
