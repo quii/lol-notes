@@ -34,7 +34,7 @@ bebe got tilted by quinn pick, but actually she carried us
 
 quii died slopily to zed a few times
 
-### Game 2 
+### Game 2 (Win)
 
 Champ Select
 - Volibear for us
@@ -43,3 +43,5 @@ Champ Select
 Irelia picked against me, initial thoughts, oh no
 
 Post game
+
+Hopeful gameplan was Dan carry, i support. it more or less worked. They had a very short range comp
