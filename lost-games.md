@@ -17,3 +17,8 @@ Lessons?
 - What is my anti-zed pic if Swain gone? Not malphite for sure
 - Don't pick Brand against mobile team, unless you have very good setup
 - Against zed i have to make sure i shove hard post 6, or i just give him window to roam
+
+
+## 3/8/2024
+
+### Game 1
