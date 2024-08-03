@@ -45,3 +45,9 @@ Irelia picked against me, initial thoughts, oh no
 Post game
 
 Hopeful gameplan was Dan carry, i support. it more or less worked. They had a very short range comp
+
+### Game 3
+
+Champ select
+- Dan picked Voli into Karthus
+- Chris blind Ori, into Diana
