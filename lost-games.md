@@ -67,3 +67,14 @@ Champ select
 Post game
 - Felt we took some bad fights for objectives where we had no way of winning. Even if it's bad to give more grubbies, its worse to just take a fight against a fed top laner that we couldn't win
 - Perhaps we could've peeled better for Samira, who was our win condition
+
+## 4/8/2024
+
+### Game 1 (Win)
+
+Champ select
+- Mumu blind, into bel. Mundo top for us
+- Picked Hwei blind, but saw double ADC so needed range
+
+Bebe played with some restraint for crab, very good bebe
+Mid gapped. Did more roaming than maybe i normally would, but it worked out well, got a big lead early from them
