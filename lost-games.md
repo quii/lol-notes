@@ -80,8 +80,10 @@ Bebe played with some restraint for crab, very good bebe
 
 Mid gapped. Did more roaming than maybe i normally would, but it worked out well, got a big lead early from them
 
-### Game 2
+### Game 2 (win)
 
 Champ select
 - Sej picked into noc
 - quii unsure. Akali beats ekko, but worried about damage, so went Ori. Immediate concerns of being blasted
+
+I did get blasted, very little impact. Bebe did fine. Darius carried us. **Don't sweat dmg charts too much. If i'm losing im not gonna do good damage anyway**
