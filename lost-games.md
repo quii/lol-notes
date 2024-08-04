@@ -77,4 +77,11 @@ Champ select
 - Picked Hwei blind, but saw double ADC so needed range
 
 Bebe played with some restraint for crab, very good bebe
+
 Mid gapped. Did more roaming than maybe i normally would, but it worked out well, got a big lead early from them
+
+### Game 2
+
+Champ select
+- quii support filled. Saw heimer mid and figured, needed some dmg, poro rated seraphine high
+- Dan went sej, we had fiora, not much to go on
