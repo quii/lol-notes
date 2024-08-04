@@ -83,5 +83,5 @@ Mid gapped. Did more roaming than maybe i normally would, but it worked out well
 ### Game 2
 
 Champ select
-- quii support filled. Saw heimer mid and figured, needed some dmg, poro rated seraphine high
-- Dan went sej, we had fiora, not much to go on
+- Sej picked into noc
+- quii unsure. Akali beats ekko, but worried about damage, so went Ori. Immediate concerns of being blasted
