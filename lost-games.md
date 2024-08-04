@@ -87,3 +87,10 @@ Champ select
 - quii unsure. Akali beats ekko, but worried about damage, so went Ori. Immediate concerns of being blasted
 
 I did get blasted, very little impact. Bebe did fine. Darius carried us. **Don't sweat dmg charts too much. If i'm losing im not gonna do good damage anyway**
+
+### Game 3
+
+Champ select
+- Got a diving comp, Nilah
+- Dan picked mumu into noc
+- quii could be against neeko or brand, picked viktor. For range, and W againsat noc
