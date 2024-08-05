@@ -101,8 +101,13 @@ We win!
 
 ## 5/8/2024
 
-### Game 1
+### Game 1 (Win)
 
 Champ select
 - Hwei into Ori. Asked Dan if he preferred Hwei or Syndra, replied with not giving a shit
 - Dan thought it was a Vi game, to lock down Yasuo
+
+Bit of a stomp
+- Dan punished the bad Ori
+- Perhaps we need Vi more, if we understand when she is a good pick
+- Couple of fights happened where we get tunnel vision assuming ADC is coming, but they aint
