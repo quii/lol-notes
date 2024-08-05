@@ -98,3 +98,11 @@ Champ select
 We win!
 - Need positive vibes. Yes we were 6k behind, but i thought they were shit.
 - Viktor ftw
+
+## 5/8/2024
+
+### Game 1
+
+Champ select
+- Hwei into Ori. Asked Dan if he preferred Hwei or Syndra, replied with not giving a shit
+- Dan thought it was a Vi game, to lock down Yasuo
