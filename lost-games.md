@@ -111,3 +111,14 @@ Bit of a stomp
 - Dan punished the bad Ori
 - Perhaps we need Vi more, if we understand when she is a good pick
 - Couple of fights happened where we get tunnel vision assuming ADC is coming, but they aint
+
+### Game 2 (Win)
+
+Forgot to diary champ select, but we had mumu into trynd (unexpected) and ori into ez (also unexpected)
+
+Ez clap win
+
+### Game 3
+
+Hwei blind, counter picked
+Dan mumu
