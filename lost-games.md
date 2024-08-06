@@ -137,3 +137,4 @@ Champ select
 
 Yeah.
 
+Thought i'd get bullied a lot by karma shaco, i did. But outscaled in the end
