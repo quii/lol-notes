@@ -127,7 +127,7 @@ Cant really remember, got pumped by Sylas
 
 ## 6/8/2024
 
-### Game 1
+### Game 1 (Win)
 
 Champ select
 - Blind pick Ori, saw Morg & Cait
@@ -138,3 +138,8 @@ Champ select
 Yeah.
 
 Thought i'd get bullied a lot by karma shaco, i did. But outscaled in the end
+
+### Game 2
+
+- vs vex - picked viktor
+- Dan sej blind, counterpicked by Diana
