@@ -118,7 +118,9 @@ Forgot to diary champ select, but we had mumu into trynd (unexpected) and ori in
 
 Ez clap win
 
-### Game 3
+### Game 3 (lost)
 
 Hwei blind, counter picked
 Dan mumu
+
+Cant really remember, got pumped by Sylas
