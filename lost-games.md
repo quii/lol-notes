@@ -124,3 +124,16 @@ Hwei blind, counter picked
 Dan mumu
 
 Cant really remember, got pumped by Sylas
+
+## 6/8/2024
+
+### Game 1
+
+Champ select
+- Blind pick Ori, saw Morg & Cait
+- Shaco morgana, karma. Bad for Dan due to CC. Went for vi.
+
+> Maybe Zac would've been better
+
+Yeah.
+
