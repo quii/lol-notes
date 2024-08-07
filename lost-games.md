@@ -153,3 +153,5 @@ Champ select
 - Dan picked Zac after some indecision, we werent sure who was jungle
 
 Zac and hwei has really nice chain CC capabilities, and zac ult also works nicely with hwei ult
+
+Felt we had a good cohesive comp too, botlane was caitlyn lux, so we had 3 ranged damage champs, with zac to dive in. Top was malz, who was an inter, but it didnt matter.
