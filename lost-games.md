@@ -143,3 +143,13 @@ Thought i'd get bullied a lot by karma shaco, i did. But outscaled in the end
 
 - vs vex - picked viktor
 - Dan sej blind, counterpicked by Diana
+
+## 7/8/2023
+
+### Game 1 (Win)
+
+Champ select
+- Picked Hwei into Viktor
+- Dan picked Zac after some indecision, we werent sure who was jungle
+
+Zac and hwei has really nice chain CC capabilities, and zac ult also works nicely with hwei ult
